@@ -17,5 +17,5 @@ It uses `gum` to show a list of scripts in a preconfigured directory. It's just 
 This list is not complete. It just shows some examples.
 - `compress-video.sh`: compress a video
 - `downgrade-package.sh`: downgrade an arch package
-- `lua-init.sh`: initialize a basic lua project (more information in the source file)
+- `lua-init.sh`: initialize a basic lua project (more information in the source file and in this [reddit post](https://www.reddit.com/r/lua/comments/17m8yr7/ive_made_a_tool_for_creating_lua_projects_linux/))
 - `symlink-godot.sh`: switch between godot versions
